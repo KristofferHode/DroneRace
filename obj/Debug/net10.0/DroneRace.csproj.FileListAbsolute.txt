@@ -12,3 +12,4 @@ C:\Users\Kristoffer\Documents\Kodehode\Backend_Undervisning\DroneRace\obj\Debug\
 C:\Users\Kristoffer\Documents\Kodehode\Backend_Undervisning\DroneRace\obj\Debug\net10.0\DroneRace.pdb
 C:\Users\Kristoffer\Documents\Kodehode\Backend_Undervisning\DroneRace\obj\Debug\net10.0\DroneRace.genruntimeconfig.cache
 C:\Users\Kristoffer\Documents\Kodehode\Backend_Undervisning\DroneRace\obj\Debug\net10.0\ref\DroneRace.dll
+C:\Users\Kristoffer\Documents\Kodehode\Backend_Undervisning\DroneRace\obj\Debug\net10.0\DroneRace.sourcelink.json
